@@ -6,6 +6,7 @@
 bin/
 .settings/
 .project
+target/
 
 # Log file
 *.log
